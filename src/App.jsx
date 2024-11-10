@@ -9,7 +9,11 @@ function App() {
 
   return (
     <>
+
+
       <EarthquakeVisualizer />
+
+
     </>
   )
 }
